@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoang\\source\\repos\\demo12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\views\\home\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\views\\home\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\views\\admin\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\views\\admin\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\views\\home\\editcv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\views\\home\\editcv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\views\\admin\\deletejob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\views\\admin\\deletejob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\views\\employee\\deletejob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\views\\employee\\deletejob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\views\\admin\\indexuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\views\\admin\\indexuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|c:\\users\\hoang\\source\\repos\\demo12\\demo12\\views\\home\\cv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAF6162C-9B6C-42ED-9266-81A7D9CEDD9A}|demo12\\demo12.csproj|solutionrelative:demo12\\views\\home\\cv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "demo12\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "demo12\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAE8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:32:59.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filter.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Home\\Filter.cshtml",
+              "RelativeDocumentMoniker": "demo12\\Views\\Home\\Filter.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Home\\Filter.cshtml",
+              "RelativeToolTip": "demo12\\Views\\Home\\Filter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T20:40:06.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "demo12\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "demo12\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAawEwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:05:28.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "demo12\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "demo12\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAnwHoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:07:14.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteJob.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Employee\\DeleteJob.cshtml",
+              "RelativeDocumentMoniker": "demo12\\Views\\Employee\\DeleteJob.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Employee\\DeleteJob.cshtml",
+              "RelativeToolTip": "demo12\\Views\\Employee\\DeleteJob.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwEkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:12:25.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IndexUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Admin\\IndexUser.cshtml",
+              "RelativeDocumentMoniker": "demo12\\Views\\Admin\\IndexUser.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Admin\\IndexUser.cshtml",
+              "RelativeToolTip": "demo12\\Views\\Admin\\IndexUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:02:23.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditCV.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Home\\EditCV.cshtml",
+              "RelativeDocumentMoniker": "demo12\\Views\\Home\\EditCV.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Home\\EditCV.cshtml",
+              "RelativeToolTip": "demo12\\Views\\Home\\EditCV.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T18:50:03.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobList.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Admin\\JobList.cshtml",
+              "RelativeDocumentMoniker": "demo12\\Views\\Admin\\JobList.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Admin\\JobList.cshtml",
+              "RelativeToolTip": "demo12\\Views\\Admin\\JobList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:51:09.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "demo12\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "demo12\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:47:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "demo12\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "demo12\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:49:35.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteJob.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Admin\\DeleteJob.cshtml",
+              "RelativeDocumentMoniker": "demo12\\Views\\Admin\\DeleteJob.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Admin\\DeleteJob.cshtml",
+              "RelativeToolTip": "demo12\\Views\\Admin\\DeleteJob.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:13:40.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CV.cshtml",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Home\\CV.cshtml",
+              "RelativeDocumentMoniker": "demo12\\Views\\Home\\CV.cshtml",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\demo12\\demo12\\Views\\Home\\CV.cshtml",
+              "RelativeToolTip": "demo12\\Views\\Home\\CV.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T18:17:05.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
